@@ -1,8 +1,8 @@
-#Test project
+# Test project
 
 React + Router + Webpack + TS + Redux + redux-thunk + styled-component
 
-#How to use:
+# How to use:
 
 npm i
 
