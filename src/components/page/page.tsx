@@ -5,6 +5,8 @@ import styled from "styled-components";
 import { HomePage } from "../home-page/home-page";
 import { Card } from "../card/card";
 
+import './page.css';
+
 const PrimaryLayout = styled.div`
   width: 800px;
   font-size: 1.2em;

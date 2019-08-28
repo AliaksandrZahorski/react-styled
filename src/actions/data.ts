@@ -12,7 +12,6 @@ export const getData = () => (dispatch: Function) => {
   fetch(`${BASE_URL}`)
     .then(response => response.json())
     .then(json => {
-      //   const { blogs } = json;
       dispatch(getDataSuccess(json));
     });
 };
